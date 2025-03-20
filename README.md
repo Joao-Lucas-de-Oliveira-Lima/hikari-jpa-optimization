@@ -14,8 +14,7 @@
 - [Performance Optimizations](#performance-optimizations)
   - [Connection Pool Management](#connection-pool-management)
   - [JPA/Hibernate Optimizations](#jpa-hibernate-optimizations)
-  - [Transaction Management](#transaction-management)
-- [Best Practices for Future Implementation](#best-practices-for-future-implementation)
+- [Best Practices for Future Implementation](#future-improvements)
 
 ## About <a name="about"></a>
 
